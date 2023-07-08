@@ -1,4 +1,4 @@
-# Project Title
+# NBP-API
 
 Currency conversion app that utilizes the NBP (Narodowy Bank Polski) API to fetch currency exchange rates. It allows to save the retrieved currency rates to a database and display them in a table format. Additionally, the application enables users to convert a given amount from one currency to another and store the conversion results in the database.
 
